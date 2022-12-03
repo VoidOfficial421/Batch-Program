@@ -2,7 +2,7 @@
 
 
 Disclamer:
-Keep in mind that the assets I used are not my intelectual property and are owned by Microsoft.
+Keep in mind that the assets I used are not my intellectual property and are owned by Microsoft.
 Im talking about the Windows XP startup sound.
 
 # Batch OS is a program made in VBScript and Batch. 
