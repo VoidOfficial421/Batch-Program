@@ -15,7 +15,7 @@ goto checks
 :checks
 if not exist yesornoprompt.vbs goto errormessage
 if not exist core.bat goto errormessage
-if not exist placeholdermessage.vbs goto errormessage
+if not exist stall.vbs goto errormessage
 if exist yesornoprompt.vbs goto startprocess
 
 :startprocess
